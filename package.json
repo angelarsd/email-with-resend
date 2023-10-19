@@ -1,0 +1,13 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "main": "sendmail.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node sendmail.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "resend": "^1.1.0"
+  }
+}
